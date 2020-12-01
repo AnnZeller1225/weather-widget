@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/weather-widget/static/css/main.cbd71454.chunk.css",
+    "main.js": "/weather-widget/static/js/main.03cfc4b5.chunk.js",
+    "main.js.map": "/weather-widget/static/js/main.03cfc4b5.chunk.js.map",
+    "runtime-main.js": "/weather-widget/static/js/runtime-main.f01c6c84.js",
+    "runtime-main.js.map": "/weather-widget/static/js/runtime-main.f01c6c84.js.map",
+    "static/js/2.fe605749.chunk.js": "/weather-widget/static/js/2.fe605749.chunk.js",
+    "static/js/2.fe605749.chunk.js.map": "/weather-widget/static/js/2.fe605749.chunk.js.map",
+    "index.html": "/weather-widget/index.html",
+    "static/css/main.cbd71454.chunk.css.map": "/weather-widget/static/css/main.cbd71454.chunk.css.map",
+    "static/js/2.fe605749.chunk.js.LICENSE.txt": "/weather-widget/static/js/2.fe605749.chunk.js.LICENSE.txt",
+    "static/media/clouds.4fbcfe3b.png": "/weather-widget/static/media/clouds.4fbcfe3b.png",
+    "static/media/klipartz.com (1).a6208cee.png": "/weather-widget/static/media/klipartz.com (1).a6208cee.png",
+    "static/media/klipartz.com (2).082fd829.png": "/weather-widget/static/media/klipartz.com (2).082fd829.png",
+    "static/media/klipartz.com (4).400040fc.png": "/weather-widget/static/media/klipartz.com (4).400040fc.png",
+    "static/media/klipartz.com (5).ae3f965d.png": "/weather-widget/static/media/klipartz.com (5).ae3f965d.png",
+    "static/media/klipartz.com (6).2c25af1c.png": "/weather-widget/static/media/klipartz.com (6).2c25af1c.png",
+    "static/media/rain.991d6071.png": "/weather-widget/static/media/rain.991d6071.png",
+    "static/media/snow.3431a190.png": "/weather-widget/static/media/snow.3431a190.png",
+    "static/media/sunny.220df78a.png": "/weather-widget/static/media/sunny.220df78a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01c6c84.js",
+    "static/js/2.fe605749.chunk.js",
+    "static/css/main.cbd71454.chunk.css",
+    "static/js/main.03cfc4b5.chunk.js"
+  ]
+}
